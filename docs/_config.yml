@@ -24,8 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Een kijkje in het brein van Gerlinde.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gerlinde1997.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  Gerlinde1997
+# twitter_username: 
+github_username: Gerlinde1997
+github:
+  is_project_page: true
+  #repository_url: "https://github.com/Gerlinde1997/Gerlinde1997.github.io"
 show_downloads: false
 # Build settings
 theme: jekyll-theme-cayman
